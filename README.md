@@ -44,6 +44,9 @@ bash
 Copy
 Edit
 python mnist_digit_recognition.py
+
+
+
 3️⃣ Fashion MNIST Classification
 Goal: Classify clothing items (e.g., shirts, shoes, coats) from grayscale images.
 
